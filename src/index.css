@@ -1,0 +1,38 @@
+:root{
+    --primary: #000;
+    --sacondry:rgb(172 195 165);
+    --bgheader: rgb(39, 39, 24);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: aliceblue;
+    background-color:var(--sacondry);
+}
+
+.container{
+    border: 1px solid rgb(192, 183, 183);
+    width: 80%;
+    margin: auto;
+    background-color: var(--sacondry);
+}
+
+.light{
+    border-bottom: 10px solid var(--sacondry);
+    margin: 3rem 0px;
+}
+
+button{
+    all: unset;
+}
+
+
+
+.border{
+    border: 1px solid red;
+}

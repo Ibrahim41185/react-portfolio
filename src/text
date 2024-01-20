@@ -1,0 +1,18 @@
+ {["aa", "bb","ll"].map((items) => {
+        return (
+          <div key={items} className="right-sec">
+            <img src="pexels-chevanon-photography-302899.jpg" alt="" />
+            <div className="text">
+              <h2>loading</h2>
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Beatae quisquam consequatur iste nobis quae ratione?</p>
+              <div className="icons">
+                <a><i class="fa-brands fa-github"></i></a>
+                <a><i class="fa-solid fa-link"></i></a>
+              </div>
+              <button>more</button>
+            </div>
+          </div>
+        )
+      }
+      )}

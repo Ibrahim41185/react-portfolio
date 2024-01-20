@@ -1,0 +1,27 @@
+.foot{
+    width: 100%;
+    height: 100%;
+    background-color: #a0b99a;
+
+}
+
+.foot .linkes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot .linkes h2{
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    margin-right: 10px;
+}
+
+
+.foot .linkes .fa-g{
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    margin-right: 10px;
+}

@@ -1,0 +1,59 @@
+.contact{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.contact h2{
+    margin-left: 10px;
+    font-size: 3em;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.contact .cont{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contact .cont .fa-envelope{
+    font-size: 3em;
+    font-weight: bold;
+    color: #fff;
+
+}
+
+
+.information .input{
+    display: flex;
+    /* align-items: center; */
+}
+
+.information .input input{
+    padding: 5px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.149);
+    border: 1px solid #fff;
+}
+
+
+.information .input2{
+    display: flex;
+    align-items: center;
+}
+
+
+.information .input2 input{
+    /* border-radius: 20px; */
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.149);
+    border: 1px solid #fff;
+    margin-left: 10px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 10px;
+    height: 100px;
+}
