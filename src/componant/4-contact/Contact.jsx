@@ -12,11 +12,11 @@ const Contact = () => {
       </div>
       <div className="information">
         <div className="input">
-          <label htmlFor="email"> Email massege</label>
+          <label htmlFor="email"> Email adress</label>
           <input type='email' id='email'></input>
         </div>
          <div className="input2">
-         <label htmlFor="massege">Email adress</label>
+         <label htmlFor="massege">your massege</label>
           <input type="text" id='massege' />
         </div> 
 
