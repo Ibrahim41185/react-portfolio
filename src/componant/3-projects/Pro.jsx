@@ -5,7 +5,7 @@ const projects = [
   { proTitlt: "html&css ", category: "react", paragraph:"simble porjects html&css", imgpath: "1.png" },
   { proTitlt: "react projects", category: "react",paragraph:"interface watches store",  imgpath: "3.png", href:"https://style-watchs.vercel.app/" },
   { proTitlt: "javascript projects", category: "css",paragraph:"simble porjects javascript", imgpath: "4.png", href:"https://iphones-five.vercel.app/"  },
-  { proTitlt: "react projects", category: "react",paragraph:"projects with react", imgpath: "Screenshot 2024-01-18 114732.png", href:"https://react-park-gamma.vercel.app/" },
+  { proTitlt: "react projects", category: "react",paragraph:"projects with react", imgpath: "Screenshot 2024-01-18 114732.png", href:"https://react-park-gamma.vercel.app/"},
   { proTitlt: "javascript projects", category: "javascript",paragraph:"to do list with javascript", imgpath: "Screenshot 2024-01-20 063546.png" },
   { proTitlt: "javascript projects", category: "css",
   paragraph:"A simple program that converts Egyptian pounds to us dollars and euro with javascript", 
