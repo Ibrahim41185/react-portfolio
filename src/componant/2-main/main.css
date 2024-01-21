@@ -5,7 +5,6 @@
     background-color: #fff;
     color: #000;
     border-radius: 50px;
-
 }
 
 .mainsec .pic{
@@ -52,4 +51,24 @@
 
 .mainsec .text button:hover{
     scale: 1.1;
+}
+
+
+@media(max-width:576px){
+.mainsec .pic{
+    width: 100px;
+}
+.mainsec .text h2{
+    color: var(--sacondry);
+    font-size: 1.5em;
+    font-weight: bolder;
+    margin: 10px 0;
+}
+.mainsec .text p{
+    text-align: center;
+    color: #4c6d44;;
+    font-size: 1em;
+    font-weight: bolder;
+    margin: 10px 0;
+}
 }
