@@ -26,7 +26,7 @@ const Header = () => {
           </li>
         </ul>
       </nav>
-      <button><i class="fa-solid fa-xmark"></i></button>
+      
       {showMenue && (
         <div className="fixed">
         <ul>
