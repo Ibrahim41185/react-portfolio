@@ -13,7 +13,7 @@ const Skills = () => {
                 <section className='col'>
                     <div className="skills-container">
                         <div className="hope">
-                            <div className="subject"></div>
+                            <div className="subject">html</div>
                             <div className="progress-bar">
                                 <div className="progress-line"></div>
                             </div>
